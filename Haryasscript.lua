@@ -1,4 +1,4 @@
---loadstring(game:HttpGet("https://raw.githubusercontent.com/haryas09155-spec/anti-afk/main/antiafk.lua))()
+--loadstring(game:HttpGet("https://raw.githubusercontent.com/haryas09155-spec/anti-afk/main/Haryasscript.lua))()
 local Players = game:GetService("Players")
 local CoreGui = game:GetService("CoreGui")
 local RunService = game:GetService("RunService")
